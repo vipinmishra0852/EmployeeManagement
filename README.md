@@ -1,7 +1,7 @@
 # EmployeeManagement
 Employee Management System
 The Employee Management System is a web-based application that allows users to view, search, and manage employee records efficiently. It provides essential features such as listing employees, viewing details, editing records, and performing a search based on employee names.
-
+Project Demo Video: https://drive.google.com/file/d/1FPg1DbukzWreCSmANnreP28jy4GIwLay/view?usp=sharing
 Features
 Employee List: Displays all employees with their name, email, and department.
 Search Functionality: Allows users to search employees by their name dynamically.
